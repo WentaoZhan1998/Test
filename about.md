@@ -2,10 +2,10 @@
 layout: page
 title: About
 description: >-
-    Course policies and information.
+    Course information.
 ---
 
-# About
+# Course Information
 {:.no_toc}
 
 ---
@@ -58,6 +58,9 @@ Johns Hopkins University
 - [NASA Giovanni Earth Data](https://giovanni.gsfc.nasa.gov/giovanni/)
 - [NASA Earth Observation](https://neo.gsfc.nasa.gov/.)
 - [NASA G-LiHT data](https://gliht.gsfc.nasa.gov)
+
+
+
 
 
 
