@@ -3,7 +3,7 @@ title: Dec 8th
 ---
 
 8:00am - 8:45am
-: [Introduction to geostatistics and spatial linear models](#)
+: [Introduction to geostatistics and spatial models](#)
   : [Slides](slides/Lec_1_Intro.pdf)
 
 8:45am - 9:30am
