@@ -11,7 +11,8 @@ description: >-
 ---
 
 ### Instructor
-**Abhi Datta**, PhD
+**Abhirup Datta**, PhD
+
 Department of Biostatistics  
 Johns Hopkins University
 
