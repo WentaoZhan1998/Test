@@ -23,4 +23,4 @@ title: Dec 8th
 
 11:30 - 12:00
 : [Software demonstration 2](#)
-  : [Slides](https://wentaozhan1998.github.io/Test/slides/Lec_2_rf.pdf)
+  : [Slides](https://wentaozhan1998.github.io/Test/slides/Lec_4_geospaNN.pdf)

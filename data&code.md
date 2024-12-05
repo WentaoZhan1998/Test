@@ -1,9 +1,23 @@
 ---
 layout: page
-title: Data & Code
+title: Materials
 description: >-
-    Data and code availability.
+    Materials for the course
 ---
+# Lecture slides
+{:.no_toc}
+
+---
+[Introduction to geostatistics and spatial models](https://wentaozhan1998.github.io/Test/slides/Lec_1_Intro.pdf)
+
+[Random forests for geospatial data](https://wentaozhan1998.github.io/Test/slides//Lec_2_rf.pdf)
+
+[Software demonstration 1](https://wentaozhan1998.github.io/Test/slides/Lec_2_rf.pdf)
+
+[Neural networks for geospatial data](https://wentaozhan1998.github.io/Test/slides/Lec_2_rf.pdf)
+
+[Software demonstration 2](https://wentaozhan1998.github.io/Test/slides/Lec_4_geospaNN.pdf)
+
 
 # Data & Code Availability
 {:.no_toc}
