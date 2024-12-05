@@ -1,3 +1,6 @@
+---
+title: Test
+---
 
 8:00 - 8:45am
 : [Introduction to geostatistics and spatial linear models](#)
