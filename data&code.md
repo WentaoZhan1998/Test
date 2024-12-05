@@ -5,25 +5,35 @@ description: >-
     Data and code availability.
 ---
 
-# About
+# Data & Code Availability
 {:.no_toc}
 
 ---
 
-### Statistical Softwares:
-- [BRISC (R)](https://cran.r-project.org/web/packages/BRISC/index.html)
-- [spNNGP (R)](https://cran.r-project.org/web/packages/spNNGP/index.html)
-- [RandomForestsGLS (R)](https://cran.r-project.org/web/packages/RandomForestsGLS/index.html)
-- [GeospaNN (Python)](https://wentaozhan1998.github.io/geospaNN-doc/) 
+## Demo code:
+These are the live code used in the lectures.
+### Software demonstration 1:
 
-### Other packages:
-- [geoR](https://cran.r-project.org/web/packages/geoR/index.html)
-- [geoPandas](https://geopandas.org/en/stable/)
+### Software demonstration 2:
+- Basic Features [code](https://wentaozhan1998.github.io/Test/demo_code/Example_utils.ipynb)
+- Architecture Design [code](https://wentaozhan1998.github.io/Test/demo_code/Example_architecture.ipynb)
+- Compare with GAM [code](https://wentaozhan1998.github.io/Test/demo_code/Example_GAM.ipynb)
+- Compare with added-spatial-features approaches [code](https://wentaozhan1998.github.io/Test/demo_code/Example_addcovariates.ipynb)
 
-### Data Sources:
-- [NASA Giovanni Earth Data](https://giovanni.gsfc.nasa.gov/giovanni/)
-- [NASA Earth Observation](https://neo.gsfc.nasa.gov/.)
-- [NASA G-LiHT data](https://gliht.gsfc.nasa.gov)
+## Lecture code:
+These are the code used to generate all other figures in the slides.
+
+### Software demonstration 2:
+- [BCEF data](https://wentaozhan1998.github.io/Test/lec_code/lec4_ibc/BCEF.py)
+- [Activation functions](https://wentaozhan1998.github.io/Test/lec_code/lec4_ibc/Activation.ipynb)
+- [PDP](https://wentaozhan1998.github.io/Test/lec_code/lec4_ibc/PDP.ipynb)
+
+## Data:
+
+
+
+
+
 
 
 
