@@ -4,7 +4,7 @@ title: Dec 8th
 
 8:00 - 8:45
 : [Introduction to geostatistics and spatial models](#)
-  : [Slides](https://github.com/WentaoZhan1998/Test/tree/main/slides/Lec_1_Intro.pdf)
+  : [Slides](https://wentaozhan1998.github.io/Test/slides/Lec_1_Intro.pdf)
 
 8:45 - 9:30
 : [Random forests for geospatial data](#)
